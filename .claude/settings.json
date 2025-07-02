@@ -1,0 +1,8 @@
+{
+  "slashCommands": {
+    "/commit": {
+      "description": "Create a git commit with AI-generated message based on diff",
+      "command": "git add -A && git status && git diff --cached"
+    }
+  }
+}
