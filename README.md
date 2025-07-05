@@ -5,7 +5,7 @@ Unix ナノ秒タイムスタンプと日時文字列の相互変換を行うコ
 ## インストール
 
 ```bash
-go build -o ns main.go
+go install github.com/ss49919201/ns@latest
 ```
 
 ## 使用方法
